@@ -6,5 +6,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="item1">設定</string>
     <string name="item2">表示</string>
+    <string name="tv_date">日付</string>
 
 </resources>
